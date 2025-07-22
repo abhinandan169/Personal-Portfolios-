@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This project is a clean, responsive, a
 
 ## 🔗 Live Demo
 
-[View Website](https://your-deployed-portfolio-link.com)  
+[View Website](https:/linkcuts.org/7a9hvnh1)  
 *(Replace the link above with your actual deployment URL)*
 
 
@@ -32,4 +32,6 @@ Welcome to my personal portfolio website! This project is a clean, responsive, a
 - 🔄 **API Integration** – Fetches and displays latest posts dynamically
 - 📱 **Responsive Design** – Optimized for mobile, tablet, and desktop
 
+
+##
 
