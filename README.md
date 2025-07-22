@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This project is a clean, responsive, a
 
 ## 🔗 Live Demo
 
-[View Website](https:/linkcuts.org/7a9hvnh1)  
+[View Website](https://personal-portfolioabhinandan169.netlify.app/)  
 *(Replace the link above with your actual deployment URL)*
 
 
@@ -33,5 +33,8 @@ Welcome to my personal portfolio website! This project is a clean, responsive, a
 - 📱 **Responsive Design** – Optimized for mobile, tablet, and desktop
 
 
-##
-
+## 
+💬 Connect With Me
+📧 Email: abhi.mybusiness8@gmail.com
+🐙 GitHub: @abhinandan169
+📱 LinkedIn: https://www.linkedin.com/in/abhinandan-kumar-864a77332?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm02ihl4%2FTqeaCNWqJSW8Dw%3D%3D
